@@ -1,4 +1,5 @@
 # custom-pong-with-Rainbow-DQN
+Q Learning, DQN, 2DQN, Dueling DQN, Noisy net, Multi step Learning, Reward Sampling, Alphazero(Opponent Pool, Selplay)
 # the result
 
 
